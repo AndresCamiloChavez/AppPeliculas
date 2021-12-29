@@ -1,6 +1,6 @@
 package com.devandreschavez.moviesgaston.core
 
-import java.lang.Exception
+import kotlin.Exception
 
 /**
  * sirve para retornar varios estados
